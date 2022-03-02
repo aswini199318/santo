@@ -1,4 +1,4 @@
-package 1;
+package santosh;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
